@@ -10,10 +10,10 @@ In addition to my academic and hands-on experience, I’ve completed Udemy’s E
 Here are a few examples of my work:
 
 - **Network Packet Sniffer** 🐾 – Capture and analyze network traffic using **Wireshark**.
-- **Malware Analysis Sandbox** 🧪 – Create isolated environments to safely study malware behavior.
+- **Malware Analysis Sandbox** 🧪 – Create isolated environments to study malware behavior safely.
 - **Vulnerability Scanner** 🕵️‍♂️ – Develop tools to automate vulnerability assessment and penetration testing.
 
-Feel free to explore my repositories below and see how I approach cybersecurity challenges.
+You can explore my repositories below and see how I approach cybersecurity challenges.
 
 ## 🛠️ Key Skills
 
@@ -34,7 +34,7 @@ Feel free to explore my repositories below and see how I approach cybersecurity 
 
 I'm always excited to discuss cybersecurity, technology, and new challenges! Feel free to reach out if you have any questions, want to collaborate, or just want to chat about the latest in cybersecurity. 🙌
 
-- 📧 Email: [your-email@example.com](mailto:msajjid@my.lonestar.edu)
+- 📧 Email: [msajjid@my.lonestar.edu](mailto:msajjid@my.lonestar.edu)
 - 💼 LinkedIn: [linkedin.com/in/m-sajjid](https://www.linkedin.com/in/m-sajjid)
 
 ---
