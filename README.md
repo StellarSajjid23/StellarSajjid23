@@ -1,16 +1,48 @@
-## Hi there 👋
+# 🚀 Cybersecurity Enthusiast | 🛡️ Network Security | 🔐 Ethical Hacking | 🐍 Python Scripting
 
-<!--
-**StellarSajjid23/StellarSajjid23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! 👋  
+I’m an aspiring cybersecurity professional currently pursuing a **Bachelor of Applied Technology in Cybersecurity** at **Lone Star College**, with an expected graduation in **Spring 2026**. Certified as a **Cisco CyberOps Associate** and actively working towards my **CompTIA Network+** and **Security+** certifications, I’m passionate about securing digital environments and building resilient network infrastructures.
 
-Here are some ideas to get you started:
+In addition to my academic and hands-on experience, I’ve completed **[Udemy’s Ethical Hacking Bootcamp](https://www.udemy.com/course/ethical-hacking-bootcamp/)**, which has provided me with a comprehensive understanding of **penetration testing**, **ethical hacking methodologies**, and **security tools**. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+
+Here are a few examples of my work:
+
+- **Network Packet Sniffer** 🐾 – Capture and analyze network traffic using **Wireshark**.
+- **Malware Analysis Sandbox** 🧪 – Create isolated environments to safely study malware behavior.
+- **Vulnerability Scanner** 🕵️‍♂️ – Develop tools to automate vulnerability assessment and penetration testing.
+
+Feel free to explore my repositories below and see how I approach cybersecurity challenges.
+
+## 🛠️ Key Skills
+
+- **Network Security** 🔒: Configuration and troubleshooting of network infrastructure (Cisco routers, switches, VLANs, and dynamic routing protocols).
+- **Ethical Hacking** 💻: Practical experience with penetration testing, vulnerability assessments, and using ethical hacking tools like **Metasploit**, **Burp Suite**, and **Nmap**.
+- **Scripting & Automation** 🤖: Python scripting for security tools and automation of security tasks.
+- **Linux** 🐧: Hands-on experience with **Ubuntu** and **Kali Linux** for security testing and analysis.
+
+## 🏅 Certifications
+
+- **Cisco CyberOps Associate** 📜
+- **CompTIA Network+** (In Progress) 📝
+- **CompTIA Security+** (In Progress) 📝
+
+---
+
+## 💬 Let's Connect!
+
+I'm always excited to discuss cybersecurity, technology, and new challenges! Feel free to reach out if you have any questions, want to collaborate, or just want to chat about the latest in cybersecurity. 🙌
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/m-sajjid](https://www.linkedin.com/in/m-sajjid)
+- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+
+---
+
+### 📸 Images & Logos
+
+You can also add a profile picture or personal logo using markdown images. Here’s how:
+
+```markdown
+![Your Logo](https://your-image-url.com/logo.png)
