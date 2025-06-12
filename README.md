@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! 👋  
 I’m an aspiring cybersecurity professional currently pursuing a **Bachelor of Applied Technology in Cybersecurity** at **Lone Star College**, with an expected graduation in **Spring 2026**. Certified as a **Cisco CyberOps Associate** and actively working towards my **CompTIA Network+** and **Security+** certifications, I’m passionate about securing digital environments and building resilient network infrastructures.
 
-In addition to my academic and hands-on experience, I’ve completed **[Udemy’s Ethical Hacking Bootcamp](https://www.udemy.com/course/ethical-hacking-bootcamp/)**, which has provided me with a comprehensive understanding of **penetration testing**, **ethical hacking methodologies**, and **security tools**. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
+In addition to my academic and hands-on experience, I’ve completed Udemy’s Ethical Hacking Bootcamp, which has provided me with a comprehensive understanding of **penetration testing**, **ethical hacking methodologies**, and **security tools**. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
 
 ## 📂 Featured Projects
 
@@ -34,15 +34,8 @@ Feel free to explore my repositories below and see how I approach cybersecurity 
 
 I'm always excited to discuss cybersecurity, technology, and new challenges! Feel free to reach out if you have any questions, want to collaborate, or just want to chat about the latest in cybersecurity. 🙌
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](mailto:msajjid@my.lonestar.edu)
 - 💼 LinkedIn: [linkedin.com/in/m-sajjid](https://www.linkedin.com/in/m-sajjid)
-- 🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
 ---
 
-### 📸 Images & Logos
-
-You can also add a profile picture or personal logo using markdown images. Here’s how:
-
-```markdown
-![Your Logo](https://your-image-url.com/logo.png)
