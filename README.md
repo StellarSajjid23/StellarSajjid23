@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! 👋  
 I’m an aspiring cybersecurity professional currently pursuing a Bachelor of Applied Technology in Cybersecurity at Lone Star College, with an expected graduation in Spring 2026. Certified as a Cisco CyberOps Associate and actively working towards my CompTIA Network+ and Security+ certifications, I’m passionate about securing digital environments and building resilient network infrastructures.
 
-In addition to my academic and hands-on experience, I’ve completed Udemy’s Ethical Hacking Bootcamp, which has provided me with a comprehensive understanding of **penetration testing**, **ethical hacking methodologies**, and **security tools**. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
+In addition to my academic and hands-on experience, I’ve completed Udemy’s Ethical Hacking Bootcamp, which has provided me with a comprehensive understanding of penetration testing, ethical hacking methodologies, and security tools. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
 
 ---
 
@@ -28,9 +28,9 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 ## 🛠️ Key Skills
 
 - **Network Security** 🔒: Configuration and troubleshooting of network infrastructure (Cisco routers, switches, VLANs, and dynamic routing protocols).
-- **Ethical Hacking** 💻: Practical experience with penetration testing, vulnerability assessments, and using ethical hacking tools like **Metasploit**, **Burp Suite**, and **Nmap**.
+- **Ethical Hacking** 💻: Practical experience with penetration testing, vulnerability assessments, and using ethical hacking tools like Metasploit, Burp Suite, and Nmap.
 - **Scripting & Automation** 🤖: Python scripting for security tools and automation of security tasks.
-- **Linux** 🐧: Hands-on experience with **Ubuntu** and **Kali Linux** for security testing and analysis.
+- **Linux** 🐧: Hands-on experience with Ubuntu and Kali Linux for security testing and analysis.
 
 ---
 
