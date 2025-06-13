@@ -1,3 +1,5 @@
+
+
 # 🚀 Cybersecurity Enthusiast | 🛡️ Network Security | 🔐 Ethical Hacking | 🐍 Python Scripting
 
 Welcome to my GitHub portfolio! 👋  
@@ -6,6 +8,8 @@ I’m an aspiring cybersecurity professional currently pursuing a Bachelor of Ap
 In addition to my academic and hands-on experience, I’ve completed Udemy’s Ethical Hacking Bootcamp, which has provided me with a comprehensive understanding of penetration testing, ethical hacking methodologies, and security tools. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
 
 ---
+
+
 
 ## 📂 My Cybersecurity Projects
 
@@ -25,6 +29,8 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 ---
 
+
+
 ## 🛠️ Key Skills
 
 - **Network Security** 🔒: Configuration and troubleshooting of network infrastructure (Cisco routers, switches, VLANs, and dynamic routing protocols).
@@ -34,6 +40,8 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 ---
 
+
+
 ## 🏅 Certifications
 
 - **Cisco CyberOps Associate** 📜
@@ -42,9 +50,13 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 ---
 
+
+
 ## 💬 Let's Connect!
 
 I'm always excited to discuss cybersecurity, technology, and new challenges! Feel free to reach out if you have any questions, want to collaborate, or just want to chat about the latest in cybersecurity. 🙌
 
 - 📧 Email: [msajjid@my.lonestar.edu](mailto:msajjid@my.lonestar.edu)
 - 💼 LinkedIn: [linkedin.com/in/m-sajjid](https://www.linkedin.com/in/m-sajjid)
+
+
