@@ -5,28 +5,25 @@ I’m an aspiring cybersecurity professional currently pursuing a Bachelor of Ap
 
 In addition to my academic and hands-on experience, I’ve completed Udemy’s Ethical Hacking Bootcamp, which has provided me with a comprehensive understanding of **penetration testing**, **ethical hacking methodologies**, and **security tools**. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
 
+---
+
 ## 📂 My Cybersecurity Projects
 
 
-Here are five beginner-friendly cybersecurity projects that I have worked on and showcased in this repository. These projects demonstrate my ability to apply fundamental cybersecurity concepts using a variety of tools and technologies.
+Here are five beginner-friendly cybersecurity projects that I have worked on and showcased in this repository. These projects demonstrate my ability to apply fundamental cybersecurity concepts using a variety of tools and technologies. You can explore the individual projects to see how each one tackles specific cybersecurity challenges. Each project includes clear documentation, usage instructions, and sample data for easy setup and testing. You can explore my repositories below and see how I approach cybersecurity challenges.
 
-1. **Basic Web Application Vulnerability Scanner** 🕵️‍♂️💻 - A Python-based tool designed to scan web applications for common vulnerabilities such as SQL injection, XSS, and open ports. The scanner helps identify security weaknesses and potential attack surfaces in web applications.
 
-2. **Password Strength Checker** 🔐🔑 - A tool that evaluates the strength of user passwords based on complexity rules (e.g., length, character variety, common password lists). It provides recommendations for improving password security and demonstrates basic cryptographic principles.
+- **Basic Web Application Vulnerability Scanner** 🕵️‍♂️💻 - A Python-based tool designed to scan web applications for common vulnerabilities such as SQL injection, XSS, and open ports. The scanner helps identify security weaknesses and potential attack surfaces in web applications.
 
-3. **Simple Network Sniffer (Packet Sniffer)** 🌐📡 - A network packet sniffer built with Python’s `scapy` library that captures and analyzes network traffic. This tool allows you to inspect network packets and detect unencrypted traffic or suspicious activities.
+- **Password Strength Checker** 🔐🔑 - A tool that evaluates the strength of user passwords based on complexity rules (e.g., length, character variety, common password lists). It provides recommendations for improving password security and demonstrates basic cryptographic principles.
 
-4. **Simple Encryption and Decryption Tool** 🔒🔓 - A basic encryption and decryption tool supporting algorithms like AES, RSA, and Caesar Cipher. This project provides hands-on experience with encryption techniques and cryptographic principles.
+- **Simple Network Sniffer (Packet Sniffer)** 🌐📡 - A network packet sniffer built with Python’s `scapy` library that captures and analyzes network traffic. This tool allows you to inspect network packets and detect unencrypted traffic or suspicious activities.
 
-5. **Basic Log File Analyzer** 📜🔍 - A Python script designed to parse system logs for signs of malicious activity, such as failed login attempts or unusual IP addresses. This tool helps identify potential threats by analyzing log files for abnormal patterns.
+- **Simple Encryption and Decryption Tool** 🔒🔓 - A basic encryption and decryption tool supporting algorithms like AES, RSA, and Caesar Cipher. This project provides hands-on experience with encryption techniques and cryptographic principles.
 
+- **Basic Log File Analyzer** 📜🔍 - A Python script designed to parse system logs for signs of malicious activity, such as failed login attempts or unusual IP addresses. This tool helps identify potential threats by analyzing log files for abnormal patterns.
 
 ---
-
-Feel free to explore the individual projects to see how each one tackles specific cybersecurity challenges. Each project includes clear documentation, usage instructions, and sample data for easy setup and testing.
-
-
-You can explore my repositories below and see how I approach cybersecurity challenges.
 
 ## 🛠️ Key Skills
 
@@ -34,6 +31,8 @@ You can explore my repositories below and see how I approach cybersecurity chall
 - **Ethical Hacking** 💻: Practical experience with penetration testing, vulnerability assessments, and using ethical hacking tools like **Metasploit**, **Burp Suite**, and **Nmap**.
 - **Scripting & Automation** 🤖: Python scripting for security tools and automation of security tasks.
 - **Linux** 🐧: Hands-on experience with **Ubuntu** and **Kali Linux** for security testing and analysis.
+
+---
 
 ## 🏅 Certifications
 
