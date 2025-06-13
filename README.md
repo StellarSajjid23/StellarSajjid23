@@ -5,13 +5,48 @@ I’m an aspiring cybersecurity professional currently pursuing a **Bachelor of 
 
 In addition to my academic and hands-on experience, I’ve completed Udemy’s Ethical Hacking Bootcamp, which has provided me with a comprehensive understanding of **penetration testing**, **ethical hacking methodologies**, and **security tools**. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
 
-## 📂 Featured Projects
+## 📂 My Personal Cybersecurity Projects
 
-Here are a few examples of my work:
 
-- **Network Packet Sniffer** 🐾 – Capture and analyze network traffic using **Wireshark**.
-- **Malware Analysis Sandbox** 🧪 – Create isolated environments to study malware behavior safely.
-- **Vulnerability Scanner** 🕵️‍♂️ – Develop tools to automate vulnerability assessment and penetration testing.
+Here are five beginner-friendly cybersecurity projects that I have worked on and showcased in this repository. These projects demonstrate my ability to apply fundamental cybersecurity concepts using a variety of tools and technologies.
+
+## 1. **Basic Web Application Vulnerability Scanner** 🕵️‍♂️💻
+A Python-based tool designed to scan web applications for common vulnerabilities such as SQL injection, XSS, and open ports. The scanner helps identify security weaknesses and potential attack surfaces in web applications.
+
+**Key Skills:** Vulnerability Assessment, Web Scraping, Python
+
+---
+
+## 2. **Password Strength Checker** 🔐🔑
+A tool that evaluates the strength of user passwords based on complexity rules (e.g., length, character variety, common password lists). It provides recommendations for improving password security and demonstrates basic cryptographic principles.
+
+**Key Skills:** Password Security, Python, Cryptography
+
+---
+
+## 3. **Simple Network Sniffer (Packet Sniffer)** 🌐📡
+A network packet sniffer built with Python’s `scapy` library that captures and analyzes network traffic. This tool allows you to inspect network packets and detect unencrypted traffic or suspicious activities.
+
+**Key Skills:** Network Security, Packet Analysis, Python
+
+---
+
+## 4. **Simple Encryption and Decryption Tool** 🔒🔓
+A basic encryption and decryption tool supporting algorithms like AES, RSA, and Caesar Cipher. This project provides hands-on experience with encryption techniques and cryptographic principles.
+
+**Key Skills:** Cryptography, Encryption Algorithms, Python
+
+---
+
+## 5. **Basic Log File Analyzer** 📜🔍
+A Python script designed to parse system logs for signs of malicious activity, such as failed login attempts or unusual IP addresses. This tool helps identify potential threats by analyzing log files for abnormal patterns.
+
+**Key Skills:** Log Analysis, Regular Expressions, Python
+
+---
+
+Feel free to explore the individual projects to see how each one tackles specific cybersecurity challenges. Each project includes clear documentation, usage instructions, and sample data for easy setup and testing.
+
 
 You can explore my repositories below and see how I approach cybersecurity challenges.
 
