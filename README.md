@@ -12,23 +12,11 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 1. **Basic Web Application Vulnerability Scanner** 🕵️‍♂️💻 - A Python-based tool designed to scan web applications for common vulnerabilities such as SQL injection, XSS, and open ports. The scanner helps identify security weaknesses and potential attack surfaces in web applications.
 
-
----
-
 2. **Password Strength Checker** 🔐🔑 - A tool that evaluates the strength of user passwords based on complexity rules (e.g., length, character variety, common password lists). It provides recommendations for improving password security and demonstrates basic cryptographic principles.
-
-
----
 
 3. **Simple Network Sniffer (Packet Sniffer)** 🌐📡 - A network packet sniffer built with Python’s `scapy` library that captures and analyzes network traffic. This tool allows you to inspect network packets and detect unencrypted traffic or suspicious activities.
 
-
----
-
 4. **Simple Encryption and Decryption Tool** 🔒🔓 - A basic encryption and decryption tool supporting algorithms like AES, RSA, and Caesar Cipher. This project provides hands-on experience with encryption techniques and cryptographic principles.
-
-
----
 
 5. **Basic Log File Analyzer** 📜🔍 - A Python script designed to parse system logs for signs of malicious activity, such as failed login attempts or unusual IP addresses. This tool helps identify potential threats by analyzing log files for abnormal patterns.
 
