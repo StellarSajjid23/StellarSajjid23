@@ -1,9 +1,9 @@
 
 
-# 🚀 Cybersecurity Enthusiast | 🛡️ Network Security | 🔐 Ethical Hacking | 🐍 Python Scripting
+# Cybersecurity Enthusiast 🚀 | Network Security 🛡️ | Ethical Hacking 🔐 | Python Scripting 🐍
 
 
-I’m an aspiring cybersecurity professional currently pursuing a Bachelor of Applied Technology in Cybersecurity at Lone Star College, with an expected graduation in Spring 2026. Certified as a Cisco CyberOps Associate and actively working towards my CompTIA Network+ and Security+ certifications, I’m passionate about securing digital environments and building resilient network infrastructures.
+I’m an aspiring cybersecurity professional pursuing a Bachelor of Applied Technology in Cybersecurity at Lone Star College. I expect to graduate in Spring 2026. Certified as a Cisco CyberOps Associate and actively working towards my CompTIA Network+ and Security+ certifications, I’m passionate about securing digital environments and building resilient network infrastructures.
 
 In addition to my academic and hands-on experience, I’ve completed Udemy’s Ethical Hacking Bootcamp, which has provided me with a comprehensive understanding of penetration testing, ethical hacking methodologies, and security tools. This has significantly enhanced my ability to identify vulnerabilities, exploit weaknesses, and apply security best practices in real-world scenarios.
 
@@ -14,7 +14,7 @@ In addition to my academic and hands-on experience, I’ve completed Udemy’s E
 ## 📂 My Cybersecurity Projects
 
 
-Here are five beginner-friendly cybersecurity projects that I have worked on and showcased in this repository. These projects demonstrate my ability to apply fundamental cybersecurity concepts using a variety of tools and technologies. You can explore the individual projects to see how each one tackles specific cybersecurity challenges. Each project includes clear documentation, usage instructions, and sample data for easy setup and testing. You can explore my repositories below and see how I approach cybersecurity challenges.
+Here are five beginner-friendly cybersecurity projects that I have worked on and showcased in this repository. These projects demonstrate my ability to apply fundamental cybersecurity concepts using various tools and technologies. You can explore the individual projects to see how each tackles specific cybersecurity challenges. Each project includes clear documentation, usage instructions, and sample data for easy setup and testing. You can explore my repositories below and see how I approach cybersecurity challenges.
 
 
 - **Basic Web Application Vulnerability Scanner** 🕵️‍♂️💻 - A Python-based tool designed to scan web applications for common vulnerabilities such as SQL injection, XSS, and open ports. The scanner helps identify security weaknesses and potential attack surfaces in web applications.
