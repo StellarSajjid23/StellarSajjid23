@@ -45,8 +45,8 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 ## 🏅 Certifications
 
 - **Cisco CyberOps Associate** 📜
-- **CompTIA Network+** (In Progress) 📝
-- **CompTIA Security+** (In Progress) 📝
+- **CompTIA Network+** 📝
+- **CompTIA Security+** 📝
 
 ---
 
