@@ -2,8 +2,7 @@
 Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College CyFair, currently pursuing my Bachelor’s degree with two semesters remaining. I’ve completed my AAS in Cybersecurity and hold industry certifications including Cisco Certified CyberOps Associate (CBROPS 200-201), CompTIA Network+, and CompTIA Security+. My approach to learning cybersecurity is hands-on—building practical projects that mirror real-world threats and defenses.<br><br>I work extensively with Linux and Kali Linux environments and have developed multiple cybersecurity labs using Raspberry Pi systems and Python-based automation tools. My focus areas include Security Operations (SOC), threat detection, and system defense. I’m also expanding my skills in Golang and Bash, and I’m actively seeking a cybersecurity internship where I can apply my knowledge in a real-world environment and continue growing as a security professional.
 
 
-
-## 🛡️ Key Strengths & Contributions
+## 🛡️ Key Strengths & Contributions:
 
 - 🛡️ Strong foundation in cybersecurity principles and practices  
 - 🐧 Hands-on experience with Linux & Kali Linux environments  
@@ -12,8 +11,7 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 - ⚙️ Growing expertise in Golang & Bash scripting  
 
 
-
-## 🔐 Core Interests
+## 🔐 Core Interests:
 
 - 🚨 Threat Detection & Incident Response  
 - 📊 Log Analysis, SIEM & SOC workflows  
@@ -21,11 +19,19 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 - ⚡ Security Automation & Tool Development  
 
 
-## 🎯 Current Goals
+## 🌟 Certifications:
+
+- **Cisco CyberOps Associate** 📜
+- **CompTIA Network+** 📜
+- **CompTIA Security+** 📜
+
+
+## 🎯 Current Goals:
 
 - 🚀 Secure a Cybersecurity Internship (Summer)  
 - 💼 Gain hands-on experience in SOC / Security Operations  
 - 📈 Build advanced, real-world cybersecurity projects  
+
 
 ---
 
