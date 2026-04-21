@@ -76,7 +76,7 @@ I'm always excited to discuss cybersecurity, technology, and new challenges! Fee
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
