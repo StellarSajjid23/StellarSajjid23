@@ -1,7 +1,7 @@
 # 🌟 Professional Summary:
-###Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College CyFair, currently pursuing my Bachelor’s degree with two semesters remaining. I’ve completed my AAS in Cybersecurity and hold industry certifications including Cisco Certified CyberOps Associate (CBROPS 200-201), CompTIA Network+, and CompTIA Security+. My approach to learning cybersecurity is hands-on—building practical projects that mirror real-world threats and defenses.<br><br>I work extensively with Linux and Kali Linux environments and have developed multiple cybersecurity labs using Raspberry Pi systems and Python-based automation tools. My focus areas include Security Operations (SOC), threat detection, and system defense. I’m also expanding my skills in Golang and Bash, and I’m actively seeking a cybersecurity internship where I can apply my knowledge in a real-world environment and continue growing as a security professional.
+Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College CyFair, currently pursuing my Bachelor’s degree with two semesters remaining. I’ve completed my AAS in Cybersecurity and hold industry certifications including Cisco Certified CyberOps Associate (CBROPS 200-201), CompTIA Network+, and CompTIA Security+. My approach to learning cybersecurity is hands-on—building practical projects that mirror real-world threats and defenses.<br><br>I work extensively with Linux and Kali Linux environments and have developed multiple cybersecurity labs using Raspberry Pi systems and Python-based automation tools. My focus areas include Security Operations (SOC), threat detection, and system defense. I’m also expanding my skills in Golang and Bash, and I’m actively seeking a cybersecurity internship where I can apply my knowledge in a real-world environment and continue growing as a security professional.
 
----
+
 
 ## 🛡️ Key Strengths & Contributions
 
@@ -11,7 +11,7 @@
 - 🍓 Raspberry Pi-based attack/defense lab environments  
 - ⚙️ Growing expertise in Golang & Bash scripting  
 
----
+
 
 ## 🔐 Core Interests
 
@@ -20,7 +20,6 @@
 - 🕵️ Ethical Hacking & Defensive Security  
 - ⚡ Security Automation & Tool Development  
 
----
 
 ## 🎯 Current Goals
 
