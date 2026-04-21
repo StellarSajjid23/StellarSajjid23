@@ -19,11 +19,11 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
   - ⚡ Security Automation & Tool Development  
 
 
-### 🌟 Certifications:
+### 👑 Certifications:
 
-  - **Cisco CyberOps Associate** 📜
-  - **CompTIA Network+** 📜
-  - **CompTIA Security+** 📜
+  - ✨ Cisco CyberOps Associate
+  - ✨ Certified CompTIA Network+ 
+  - ✨ Certified CompTIA Security+
 
 
 ### 🎯 Current Goals:
@@ -39,7 +39,7 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📂 My Cybersecurity Projects
+## 📂 My Cybersecurity Projects:
 
 
 Here are five beginner-friendly cybersecurity projects that I have worked on and showcased in this repository. These projects demonstrate my ability to apply fundamental cybersecurity concepts using various tools and technologies. You can explore the individual projects to see how each tackles specific cybersecurity challenges. Each project includes clear documentation, usage instructions, and sample data for easy setup and testing. You can explore my repositories below and see how I approach cybersecurity challenges.
@@ -57,17 +57,13 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 
 ---
-
-# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
 
 ---
 
 
 
-## 💬 Let's Connect!
+## 💬 Let's Connect !!!
 
 I'm always excited to discuss cybersecurity, technology, and new challenges! Feel free to reach out if you have any questions, want to collaborate, or just want to chat about the latest in cybersecurity. 🙌
 
@@ -76,7 +72,7 @@ I'm always excited to discuss cybersecurity, technology, and new challenges! Fee
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Inspirational Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
