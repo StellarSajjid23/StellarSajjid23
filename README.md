@@ -1,12 +1,14 @@
-# 💫 About Me:
+# 💫 Professional Summary:
 I’m Sajjid 👋 — a cybersecurity student at Lone Star College CyFair, currently pursuing my Bachelor’s degree with two semesters remaining. I’ve completed my AAS in Cybersecurity and hold industry certifications including Cisco Certified CyberOps Associate (CBROPS 200-201), CompTIA Network+, and CompTIA Security+. My approach to learning cybersecurity is hands-on—building practical projects that mirror real-world threats and defenses.<br><br>I work extensively with Linux and Kali Linux environments and have developed multiple cybersecurity labs using Raspberry Pi systems and Python-based automation tools. My focus areas include Security Operations (SOC), threat detection, and system defense. I’m also expanding my skills in Golang and Bash, and I’m actively seeking a cybersecurity internship where I can apply my knowledge in a real-world environment and continue growing as a security professional.<br><br>🚀 What I Bring<br>🛡️ Strong foundation in cybersecurity (Networking, Security, SOC fundamentals)<br>🐧 Hands-on experience with Linux & Kali Linux environments<br>🐍 Python scripting for automation, tools, and security workflows<br>🍓 Raspberry Pi-based attack/defense lab environments<br>⚙️ Growing expertise in Golang & Bash scripting<br>🔐 Core Interests<br>🚨 Threat Detection & Incident Response<br>📊 Log Analysis, SIEM & SOC workflows<br>🕵️ Ethical Hacking & Defensive Security<br>⚡ Security Automation & Tool Development<br>💻 What You'll Find Here<br>🧪 Real-world cybersecurity projects & labs<br>🐍 Custom Python security tools<br>🔍 SOC simulations & detection use cases<br>⚔️ Practical attack & defense scenarios<br>🎯 Current Goal<br>🚀 Secure a Cybersecurity Internship (Summer)<br>💼 Gain hands-on experience in SOC / Security Operations<br>📈 Build advanced, real-world cybersecurity projects<br>⚡ Mindset<br>🔥 Learn by building, not just studying<br>🧠 Think like an attacker, defend like a professional<br>🚀 Stay consistent, stay curious, keep improving
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stellar_sajjie_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-sajjid/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@StellarSajjid23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msajjid@my.lonestar.edu) 
+---
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=StellarSajjid23&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=StellarSajjid23&theme=aura&hide_border=false)<br/>
@@ -15,11 +17,7 @@ I’m Sajjid 👋 — a cybersecurity student at Lone Star College CyFair, curre
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=StellarSajjid23&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://komarev.com/ghpvc/?username=StellarSajjid23&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -54,11 +52,11 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 
 
-## 🏅 Certifications
+## 🌟 Certifications
 
 - **Cisco CyberOps Associate** 📜
-- **CompTIA Network+** 📝
-- **CompTIA Security+** 📝
+- **CompTIA Network+** 📜
+- **CompTIA Security+** 📜
 
 ---
 
@@ -71,4 +69,11 @@ I'm always excited to discuss cybersecurity, technology, and new challenges! Fee
 - 📧 Email: [msajjid@my.lonestar.edu](mailto:msajjid@my.lonestar.edu)
 - 💼 LinkedIn: [linkedin.com/in/m-sajjid](https://www.linkedin.com/in/m-sajjid)
 
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=StellarSajjid23&icon=0&color=5)](https://visitcount.itsvg.in)
 
