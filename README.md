@@ -58,7 +58,7 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 ---
 
-## ✍️ Inspirational Quotes:
+## ✍️ Inspirational Developer Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
