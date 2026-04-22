@@ -65,7 +65,7 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 ## 💬 Let's Connect !!!
 
-I'm always excited to discuss cybersecurity, technology, and new challenges! Feel free to reach out if you have any questions, want to collaborate, or just want to chat about the latest in cybersecurity. 🙌
+I'm Always Excited to Discuss Cybersecurity, Technology, and New Challenges !!! Feel Free to Reach Out if You Have any Questions, Want to Collaborate, or Just Want to Chat about the Latest in Cybersecurity !!! 🌷🌷🌷🌷🌷🌷
 
 - 📧 Email: [msajjid@my.lonestar.edu](mailto:msajjid@my.lonestar.edu)
 - 💼 LinkedIn: [linkedin.com/in/m-sajjid](https://www.linkedin.com/in/m-sajjid)
