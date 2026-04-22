@@ -28,7 +28,7 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 
 ### 🎯 Current Goals:
 
-  - 🚀 Secure a Cybersecurity Internship [ Summer 2026 ] 
+  - 🚀 Secure a Cybersecurity Internship [Summer 2026] 
   - 💼 Gain Hands-On Experience in SOC / Security Operations  
   - 📈 Build Advanced, Real-World Cybersecurity Projects  
 
@@ -58,7 +58,10 @@ Here are five beginner-friendly cybersecurity projects that I have worked on and
 
 ---
 
+## ✍️ Inspirational Quotes:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
 ## 💬 Let's Connect !!!
 
@@ -66,11 +69,6 @@ I'm always excited to discuss cybersecurity, technology, and new challenges! Fee
 
 - 📧 Email: [msajjid@my.lonestar.edu](mailto:msajjid@my.lonestar.edu)
 - 💼 LinkedIn: [linkedin.com/in/m-sajjid](https://www.linkedin.com/in/m-sajjid)
-
----
-
-## ✍️ Inspirational Quotes:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
