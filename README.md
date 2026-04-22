@@ -4,11 +4,11 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 
 ### 🪩 Key Strengths & Contributions:
 
-  - 🛡️ Strong foundation in cybersecurity principles and practices  
-  - 🐧 Hands-on experience with Linux & Kali Linux environments  
-  - 🐍 Python scripting for automation, tools, and security workflows  
-  - 🍓 Raspberry Pi-based attack/defense lab environments  
-  - ⚙️ Growing expertise in Golang & Bash scripting  
+  - 🛡️ Strong foundation in Cybersecurity Principles and Practices  
+  - 🐧 Hands-On Experience with Linux & Kali Linux Environments  
+  - 🐍 Python Scripting for Automation, Tools, and Security Workflows  
+  - 🍓 Raspberry Pi-Based Attack/Defense Lab Environments  
+  - ⚙️ Growing Expertise in Golang & Bash Scripting  
 
 
 ### 💡 Core Interests:
@@ -28,9 +28,9 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 
 ### 🎯 Current Goals:
 
-  - 🚀 Secure a Cybersecurity Internship (Summer)  
-  - 💼 Gain hands-on experience in SOC / Security Operations  
-  - 📈 Build advanced, real-world cybersecurity projects  
+  - 🚀 Secure a Cybersecurity Internship [ Summer 2026 ] 
+  - 💼 Gain Hands-On Experience in SOC / Security Operations  
+  - 📈 Build Advanced, Real-World Cybersecurity Projects  
 
 ---
 
