@@ -3,7 +3,6 @@
   <img src="./GitHub_Main_Banner.svg" alt="Hi, I'm SAJJID - Defensive Security Portfolio Banner" width="100%" />
 </p>
 
----
 
 # 🌟 Professional Summary:
 Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College CyFair, Currently Pursuing my Bachelor’s Degree with Two Semesters Remaining. I’ve Completed my AAS in Cybersecurity and Hold Industry Certifications including Cisco Certified CyberOps Associate (CBROPS 200-201), CompTIA Network+, and CompTIA Security+. My Approach to Learning Cybersecurity is by Practical Projects that Mirrors Real-World Threats and Defenses.<br><br>I Work Extensively with Linux and Kali Linux Environments and Have Developed Multiple Cybersecurity Labs using Raspberry Pi Systems and Python-Based Automation Tools. My Focus Areas include Security Operations (SOC), Threat Detection, and System Defense. I’m also Expanding my Skills in Golang and Bash, and I’m Actively Seeking a Cybersecurity Internship Where I Can Apply my Knowledge in a Real-World Environment and Continue Growing as a Security Professional.
