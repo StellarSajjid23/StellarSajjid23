@@ -14,7 +14,7 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
  - ### 💡 Core Interests:
 
     - 🚨 Threat Detection & Incident Response  
-    - 📊 Log Analysis, SIEM & SOC workflows  
+    - 📊 Log Analysis, SIEM & SOC Workflows  
     - 🕵️ Ethical Hacking & Defensive Security  
     - ⚡ Security Automation & Tool Development  
 
