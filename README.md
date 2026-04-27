@@ -41,20 +41,15 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 
 ## 🌀 My Cybersecurity Projects:
 
+Here are four professional Python-based cybersecurity projects that I have designed and developed as part of my hands-on security engineering portfolio. These projects demonstrate my ability to apply practical cybersecurity concepts across offensive reconnaissance, defensive SOC monitoring, threat hunting, and digital forensics while building modular automation tools for real-world analyst workflows.
 
-Here are five beginner-friendly cybersecurity projects that I have worked on and showcased in this repository. These projects demonstrate my ability to apply fundamental cybersecurity concepts using various tools and technologies. You can explore the individual projects to see how each tackles specific cybersecurity challenges. Each project includes clear documentation, usage instructions, and sample data for easy setup and testing. You can explore my repositories below and see how I approach cybersecurity challenges.
+* **ReconSpecter 🌐🛰️** — A Python-based network reconnaissance and attack surface intelligence toolkit built to perform host discovery, port scanning, packet inspection, and web resource enumeration. This project demonstrates practical red team information gathering techniques and automated visibility assessment of exposed network services.
 
+* **SentraCore 🛡️📊** — A SOC-style security monitoring and log analysis toolkit developed to detect brute-force attacks, failed authentication attempts, and correlated suspicious security events. This repository showcases defensive blue team monitoring workflows and SIEM-inspired threat alert automation using Python.
 
-- **Basic Web Application Vulnerability Scanner** 🕵️‍♂️💻 - A Python-based tool designed to scan web applications for common vulnerabilities such as SQL injection, XSS, and open ports. The scanner helps identify security weaknesses and potential attack surfaces in web applications.
+* **HunterMatrix 🎯🔍** — A threat hunting and IOC correlation toolkit created to analyze suspicious indicators, map malicious artifacts, and apply ATT&CK-style detection logic for proactive investigations. This project highlights intelligence-driven blue team analysis, detection engineering, and automated threat hunting methodologies.
 
-- **Password Strength Checker** 🔐🔑 - A tool that evaluates the strength of user passwords based on complexity rules (e.g., length, character variety, common password lists). It provides recommendations for improving password security and demonstrates basic cryptographic principles.
-
-- **Simple Network Sniffer (Packet Sniffer)** 🌐📡 - A network packet sniffer built with Python’s `scapy` library that captures and analyzes network traffic. This tool allows you to inspect network packets and detect unencrypted traffic or suspicious activities.
-
-- **Simple Encryption and Decryption Tool** 🔒🔓 - A basic encryption and decryption tool supporting algorithms like AES, RSA, and Caesar Cipher. This project provides hands-on experience with encryption techniques and cryptographic principles.
-
-- **Basic Log File Analyzer** 📜🔍 - A Python script designed to parse system logs for signs of malicious activity, such as failed login attempts or unusual IP addresses. This tool helps identify potential threats by analyzing log files for abnormal patterns.
-
+* **ForensicBox 🛡️🧪** — A digital forensics and cybersecurity investigation toolkit that combines phishing analysis, file integrity verification, encryption utilities, and hidden data inspection into one modular repository. It provides practical exposure to DFIR workflows, forensic automation, and cybersecurity evidence analysis for aspiring security professionals.
 
 ---
 
