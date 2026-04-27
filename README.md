@@ -41,15 +41,15 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 
 ## 🌀 My Cybersecurity Projects:
 
-Here are four professional Python-based cybersecurity projects that I have designed and developed as part of my hands-on security engineering portfolio. These projects demonstrate my ability to apply practical cybersecurity concepts across offensive reconnaissance, defensive SOC monitoring, threat hunting, and digital forensics while building modular automation tools for real-world analyst workflows.
+Here are Four Professional Python-Based Cybersecurity Projects that I Have Designed and Developed as Part of My Hands-On Security Engineering Portfolio. These Projects Demonstrate my Ability to Apply Practical Cybersecurity Concepts Across Offensive Reconnaissance, Defensive SOC Monitoring, Threat Hunting, and Digital Forensics while Building Modular Automation Tools for Real-World Analyst Workflows.
 
-* **ReconSpecter 🌐🛰️**: A Python-based network reconnaissance and attack surface intelligence toolkit built to perform host discovery, port scanning, packet inspection, and web resource enumeration. This project demonstrates practical red team information gathering techniques and automated visibility assessment of exposed network services.
+* **♦️ReconSpecter**: A Python-Based Network Reconnaissance and Attack Surface Intelligence Toolkit Built to Perform Host Discovery, Port Scanning, Packet Inspection, and Web Resource Enumeration. This Project Demonstrates Practical Red Team Information Gathering Techniques and Automated Visibility Assessment of Exposed Network Services.
 
-* **SentraCore 🛡️📊**: A SOC-style security monitoring and log analysis toolkit developed to detect brute-force attacks, failed authentication attempts, and correlated suspicious security events. This repository showcases defensive blue team monitoring workflows and SIEM-inspired threat alert automation using Python.
+* **♦️SentraCore**: A SOC-Style Security Monitoring and Log Analysis Toolkit Developed to Detect Brute-Force Attacks, Failed Authentication Attempts, and Correlated Suspicious Security Events. This Repository Showcases Defensive Blue Team Monitoring Workflows and SIEM-Inspired Threat Alert Automation using Python.
 
-* **HunterMatrix 🎯🔍**: A threat hunting and IOC correlation toolkit created to analyze suspicious indicators, map malicious artifacts, and apply ATT&CK-style detection logic for proactive investigations. This project highlights intelligence-driven blue team analysis, detection engineering, and automated threat hunting methodologies.
+* **♦️HunterMatrix**: A Threat Hunting and IOC Correlation Toolkit Created to Analyze Suspicious Indicators, Map Malicious Artifacts, and Apply ATT&CK-Style Detection Logic for Proactive Investigations. This Project Highlights Intelligence-Driven Blue Team Analysis, Detection Engineering, and Automated Threat Hunting Methodologies.
 
-* **♦️ ForensicBox **: A digital forensics and cybersecurity investigation toolkit that combines phishing analysis, file integrity verification, encryption utilities, and hidden data inspection into one modular repository. It provides practical exposure to DFIR workflows, forensic automation, and cybersecurity evidence analysis for aspiring security professionals.
+* **♦️ForensicBox**: A Digital Forensics and Cybersecurity Investigation Toolkit that Combines Phishing Analysis, File Integrity Verification, Encryption Utilities, and Hidden Data Inspection into One Modular Repository. It Provides Practical Exposure to DFIR Workflows, Forensic Automation, and Cybersecurity Evidence Analysis for Aspiring Security Professionals.
 
 ---
 
