@@ -53,11 +53,14 @@ Here are Four Professional Python-Based Cybersecurity Projects that I Have Desig
 * [**♦️ReconSpecter♦️**](https://github.com/StellarSajjid23/ReconSpecter):
    - A Python Based Network Reconnaissance and Attack Surface Intelligence Toolkit Built to Perform Host Discovery, Port Scanning, Packet Inspection, and Web Resource Enumeration. This Project Demonstrates Practical Red Team Information Gathering Techniques and Automated Visibility Assessment of Exposed Network Services.
 
-* [**♦️SentraCore♦️**](https://github.com/StellarSajjid23/SentraCore):  A SOC Style Security Monitoring and Log Analysis Toolkit Developed to Detect Brute-Force Attacks, Failed Authentication Attempts, and Correlated Suspicious Security Events. This Repository Showcases Defensive Blue Team Monitoring Workflows and SIEM Inspired Threat Alert Automation using Python.
+* [**♦️SentraCore♦️**](https://github.com/StellarSajjid23/SentraCore):
+   - A SOC Style Security Monitoring and Log Analysis Toolkit Developed to Detect Brute-Force Attacks, Failed Authentication Attempts, and Correlated Suspicious Security Events. This Repository Showcases Defensive Blue Team Monitoring Workflows and SIEM Inspired Threat Alert Automation using Python.
 
-* [**♦️HunterMatrix♦️**](https://github.com/StellarSajjid23/HunterMatrix):  A Threat Hunting and IOC Correlation Toolkit Created to Analyze Suspicious Indicators, Map Malicious Artifacts, and Apply ATT&CK Style Detection Logic for Proactive Investigations. This Project Highlights Intelligence-Driven Blue Team Analysis, Detection Engineering, and Automated Threat Hunting Methodologies.
+* [**♦️HunterMatrix♦️**](https://github.com/StellarSajjid23/HunterMatrix)
+   - A Threat Hunting and IOC Correlation Toolkit Created to Analyze Suspicious Indicators, Map Malicious Artifacts, and Apply ATT&CK Style Detection Logic for Proactive Investigations. This Project Highlights Intelligence-Driven Blue Team Analysis, Detection Engineering, and Automated Threat Hunting Methodologies.
 
-* [**♦️ForensicBox♦️**](https://github.com/StellarSajjid23/ForensicBox):  A Digital Forensics and Cybersecurity Investigation Toolkit that Combines Phishing Analysis, File Integrity Verification, Encryption Utilities, and Hidden Data Inspection into One Modular Repository. It Provides Practical Exposure to DFIR Workflows, Forensic Automation, and Cybersecurity Evidence Analysis for Aspiring Security Professionals.
+* [**♦️ForensicBox♦️**](https://github.com/StellarSajjid23/ForensicBox)
+   - A Digital Forensics and Cybersecurity Investigation Toolkit that Combines Phishing Analysis, File Integrity Verification, Encryption Utilities, and Hidden Data Inspection into One Modular Repository. It Provides Practical Exposure to DFIR Workflows, Forensic Automation, and Cybersecurity Evidence Analysis for Aspiring Security Professionals.
 
 ---
 
