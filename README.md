@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Final_Main_Banner.svg" alt="Sajjid GitHub Main Banner" width="100%" />
+  <img src="./GitHub_Main_Banner.svg" alt="Sajjid GitHub Main Banner" width="100%" />
 </p>
 
 
