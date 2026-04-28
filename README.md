@@ -50,7 +50,8 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
 
 Here are Four Professional Python-Based Cybersecurity Projects that I Have Designed and Developed as Part of My Hands-On Security Engineering Portfolio. These Projects Demonstrate my Ability to Apply Practical Cybersecurity Concepts Across Offensive Reconnaissance, Defensive SOC Monitoring, Threat Hunting, and Digital Forensics while Building Modular Automation Tools for Real-World Analyst Workflows.
 
-* [**♦️ReconSpecter♦️**](https://github.com/StellarSajjid23/ReconSpecter):  A Python Based Network Reconnaissance and Attack Surface Intelligence Toolkit Built to Perform Host Discovery, Port Scanning, Packet Inspection, and Web Resource Enumeration. This Project Demonstrates Practical Red Team Information Gathering Techniques and Automated Visibility Assessment of Exposed Network Services.
+* [**♦️ReconSpecter♦️**](https://github.com/StellarSajjid23/ReconSpecter):
+   - A Python Based Network Reconnaissance and Attack Surface Intelligence Toolkit Built to Perform Host Discovery, Port Scanning, Packet Inspection, and Web Resource Enumeration. This Project Demonstrates Practical Red Team Information Gathering Techniques and Automated Visibility Assessment of Exposed Network Services.
 
 * [**♦️SentraCore♦️**](https://github.com/StellarSajjid23/SentraCore):  A SOC Style Security Monitoring and Log Analysis Toolkit Developed to Detect Brute-Force Attacks, Failed Authentication Attempts, and Correlated Suspicious Security Events. This Repository Showcases Defensive Blue Team Monitoring Workflows and SIEM Inspired Threat Alert Automation using Python.
 
