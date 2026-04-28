@@ -38,12 +38,13 @@ Greetings, My name is Sajjid. I am a Cybersecurity Student at Lone Star College 
     - 💼 Gain Hands-On Experience in SOC / Security Operations  
     - 📈 Build Advanced, Real-World Cybersecurity Projects  
 
+---
 
 <p align="center">
   <img src="./Banners/GitHub_Skills_Banner.svg" alt="Sajjid Skills and Tools Banner" width="100%" />
 </p>
 
-
+---
 
 ## 🌀 My Cybersecurity Projects:
 
@@ -57,11 +58,13 @@ Here are Four Professional Python-Based Cybersecurity Projects that I Have Desig
 
 * **♦️ ForensicBox** : A Digital Forensics and Cybersecurity Investigation Toolkit that Combines Phishing Analysis, File Integrity Verification, Encryption Utilities, and Hidden Data Inspection into One Modular Repository. It Provides Practical Exposure to DFIR Workflows, Forensic Automation, and Cybersecurity Evidence Analysis for Aspiring Security Professionals.
 
+---
 
 <p align="center">
   <img src="./Banners/GitHub_Quote_Banner.svg" alt="Motivational Quote Banner" width="100%" />
 </p>
 
+---
 
 ## 💬 Let's Connect !!!
 
