@@ -74,5 +74,9 @@ I'm Always Excited to Discuss Cybersecurity, Technology, and New Challenges !!! 
 - 💼 LinkedIn: [linkedin.com/in/m-sajjid](https://www.linkedin.com/in/m-sajjid)
 - 🕯️ Instagram: [instagram.com/stellar_sajjie_](https://www.instagram.com/stellar_sajjie_)
 
+---
 
+<p align="center">
+  <img src="./Banners/GitHub_Media_Banner.svg" alt="Media Banner" width="100%" />
+</p>
 
